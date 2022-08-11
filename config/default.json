@@ -1,0 +1,6 @@
+{  
+    "mongoURI": "mongodb+srv://brand123:brand123@devconector.qpovi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "1d764a95c4323974df63",
+    "githubSecret": "ac55cfce1bc5d98e31c900fa8bff99f715a6020e"
+}
